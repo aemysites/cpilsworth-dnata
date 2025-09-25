@@ -12,6 +12,30 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]"
         },
         {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]"
+        },
+        {
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]"
+        },
+        {
           "url": "https://b2cprod.emirates.dev/en/contact-us/",
           "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
           "uuid": "ebc04d80-00-34b6e7de15b4f6b8e6aa744cda0d259d8aa881c2",
@@ -35,6 +59,30 @@
           "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
         },
         {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-20-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-05-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-20-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-28-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        },
+        {
           "url": "https://b2cprod.emirates.dev/en/contact-us/",
           "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
           "uuid": "ebc04d80-15-d461fa316c7629e2236912589b357bdf891cb45c",
@@ -48,120 +96,477 @@
   ],
   "blocks": [
     {
-      "name": "unknown",
-      "cluster": 1,
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns block",
+      "target": "Columns block (columns19)",
+      "key": "columns19",
       "instances": [
         {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
-          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-04-fec3bf74c0bd98ae11d8d70e4bf0dc911dfa40a3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-08-28eecd95382f3047a0e30e486b25c921491cc1b9",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-09-98831035932a30ff42db7c41ae4a6421fc7de70a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[2]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-16-92a7382333fa5793871ec48e4604df76465feada",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[4]/div[1]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-17-bc957ceff0526bc40be16b642b217d39a56e075c",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[1]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-18-5c5aaa52e82d65691873287c01f58fc49ce091df",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[6]/div[1]/div[4]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-19-357a9e9c41f172437e2a5075ac6797171c6859e4",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[7]/div[1]/div[4]",
+          "section": "section-5"
         }
-      ],
-      "key": "unknown1"
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 20,
+      "source": "Cards",
+      "target": "Cards (cards20)",
+      "key": "cards20",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-05-c114c65ea4af6aa7dd00029ef15486d2ed6783f5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[1]/div[5]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-07-ed01c8087dfc8d5abac1038d7e8f08552832f1d2",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]/div[1]/div[5]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+          "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+          "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+          "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-17-2f85546fd53fc8867e98b1d85c5670aee07caa00",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-17-2f85546fd53fc8867e98b1d85c5670aee07caa00",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-07-5162bc4fe9d8e89efb66ca8fe2fc5ad40272da4a",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-09-2f85546fd53fc8867e98b1d85c5670aee07caa00",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 23,
+      "source": "Cards",
+      "target": "Cards (cards23)",
+      "key": "cards23",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-10-d714bf4c89b9b809e57d26a607c92964d781b3ae",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[3]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-15-8c38aff579177e1e8c7bf05bcbd9822406e2a6bb",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns block",
+      "target": "Columns block (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-05-10ff6870fe0e1e8555c1dab4170caa3e62155dbd",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]"
+        }
+      ]
     },
     {
       "name": "Hero",
-      "cluster": 2,
+      "cluster": 25,
       "source": "Hero",
-      "target": "Hero (hero2)",
-      "key": "hero2",
+      "target": "Hero (hero25)",
+      "key": "hero25",
       "instances": [
         {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]",
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-15-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-12-08a8ecf5a5a05a592639f93f732c4973929f905d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns block",
+      "target": "Columns block (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-19-96c85d7ac6e82a7a307d347b20b0613fc6e3b479",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-19-96c85d7ac6e82a7a307d347b20b0613fc6e3b479",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-27-96c85d7ac6e82a7a307d347b20b0613fc6e3b479",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 27,
+      "source": "Hero",
+      "target": "Hero (hero27)",
+      "key": "hero27",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-18-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-18-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-22-5fb6ff45d67384833676cc6165e60e24aa3384f7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cards28)",
+      "key": "cards28",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-13-c38d3ad784b114a04c6a050a6aa9ca5f5f057720",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[6]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-6"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-14-868df27a1dc60a4b8e0b685c500786e45d27afc0",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[1]/div[1]/div[1]/div[3]",
           "section": "section-6"
         }
       ]
     },
     {
       "name": "Cards (no images)",
-      "cluster": 3,
+      "cluster": 29,
       "source": "Cards",
-      "target": "Cards (cardsNoImages3)",
-      "key": "cardsNoImages3",
+      "target": "Cards (cardsNoImages29)",
+      "key": "cardsNoImages29",
       "instances": [
         {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-04-9ce9fa8be76da29101f567649a5fe06e75efa88b",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "unknown",
-      "cluster": 4,
-      "instances": [
-        {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-06-763479c3261fc43016e8eafc05c8ea8587e61655",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
-        }
-      ],
-      "key": "unknown4"
-    },
-    {
-      "name": "Accordion",
-      "cluster": 5,
-      "source": "Accordion",
-      "target": "Accordion (accordion5)",
-      "key": "accordion5",
-      "instances": [
-        {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-09-7ff14cd4e5a5444d625217be384882a34ddb1005",
-          "xpath": "/html[1]/body[1]/section[4]/div[1]/div[1]/div[2]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 6,
-      "source": "Columns block",
-      "target": "Columns block (columns6)",
-      "key": "columns6",
-      "instances": [
-        {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-11-70dddc2058582ab0fa713099082e1fe5abd226ee",
-          "xpath": "/html[1]/body[1]/section[5]/div[1]/div[1]/div[2]",
-          "section": "section-7"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 7,
-      "source": "Columns block",
-      "target": "Columns block (columns7)",
-      "key": "columns7",
-      "instances": [
-        {
-          "url": "https://b2cprod.emirates.dev/en/contact-us/",
-          "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
-          "uuid": "ebc04d80-14-d416c3c4c30988887494101081ae91aa98dc6eef",
-          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]/div[2]",
-          "section": "section-6"
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-04-fea0d4d1a289bdbba1990888185cb59130c5da3c",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[2]"
         }
       ]
     },
     {
       "name": "header",
-      "cluster": 8,
+      "cluster": 30,
       "source": "Header",
-      "target": "Header (header8)",
-      "key": "header8",
+      "target": "Header (header30)",
+      "key": "header30",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-00-ec260e70fd0d109a7b00561467202bbb97cfb965",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cards31)",
+      "key": "cards31",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-10-bee6f4677deb7304b351b3a0192c82474fef85ea",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[3]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 32,
+      "source": "Carousel",
+      "target": "Carousel (carousel32)",
+      "key": "carousel32",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-01-421d3a00b9daa8d219085c25d6f4de43f68afe71",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 33,
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-06-40b141feff7e108b48563759a50ee0098c6bb6e5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]/div[1]/div[4]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 34,
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-01-b978888788ced38926717d02f78a7bc53fcdf083",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-01-b978888788ced38926717d02f78a7bc53fcdf083",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[2]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-01-b978888788ced38926717d02f78a7bc53fcdf083",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns block",
+      "target": "Columns block (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-23-1d2edffbb5f2cc44d4a0360e8a3dc925ed5df162",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 36,
+      "source": "Cards",
+      "target": "Cards (cards36)",
+      "key": "cards36",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/media-centre/",
+          "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+          "uuid": "b1514629-02-ebe9aaf0429a09ebd25d9f22f94a584bd40002fd",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 37,
+      "source": "Cards",
+      "target": "Cards (cards37)",
+      "key": "cards37",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-13-d9370d62854b731b4bcd075973c3bc54b90f7e06",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 38,
+      "source": "Columns block",
+      "target": "Columns block (columns38)",
+      "key": "columns38",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-20-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-20-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-28-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 39,
+      "source": "Header",
+      "target": "Header (header39)",
+      "key": "header39",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
           "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]",
           "section": "section-1"
         }
@@ -169,156 +574,203 @@
     },
     {
       "name": "Columns",
-      "cluster": 9,
+      "cluster": 40,
       "source": "Columns block",
-      "target": "Columns block (columns9)",
-      "key": "columns9",
+      "target": "Columns block (columns40)",
+      "key": "columns40",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-01-b978888788ced38926717d02f78a7bc53fcdf083",
-          "xpath": "/html[1]/body[1]/div[2]/header[1]/section[2]",
-          "section": "section-2"
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-05-fed148c6fcc6df8b23a15512fa455a64fd9b55c0",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[3]"
         }
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 10,
+      "name": "Hero",
+      "cluster": 41,
+      "source": "Hero",
+      "target": "Hero (hero41)",
+      "key": "hero41",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
-          "xpath": "/html[1]/body[1]/div[2]/nav[1]"
-        }
-      ],
-      "key": "unknown10"
-    },
-    {
-      "name": "Columns",
-      "cluster": 11,
-      "source": "Columns block",
-      "target": "Columns block (columns11)",
-      "key": "columns11",
-      "instances": [
-        {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-03-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 12,
-      "source": "Columns block",
-      "target": "Columns block (columns12)",
-      "key": "columns12",
-      "instances": [
-        {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-04-10f3de863c4beff72995ef29bd9c824803a39f84",
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-03-10f3de863c4beff72995ef29bd9c824803a39f84",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]"
         }
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 13,
-      "source": "Columns",
-      "target": "Columns (columns13)",
-      "key": "columns13",
+      "name": "Cards",
+      "cluster": 42,
+      "source": "Cards",
+      "target": "Cards (cards42)",
+      "key": "cards42",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-07-df479701796483f8068d475e8a188f9a3eac9760",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]",
-          "section": "section-2"
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-15-1c1debca94cf62216a0d2066223548815d01dac5",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[7]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 43,
+      "source": "Cards",
+      "target": "Cards (cards43)",
+      "key": "cards43",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-11-804234d9c6a98c2e7eded7023976666c01ddb7f6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 44,
+      "source": "Columns",
+      "target": "Columns (columns44)",
+      "key": "columns44",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-04-28eecd95382f3047a0e30e486b25c921491cc1b9",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[2]/div[1]",
+          "section": "section-7"
         }
       ]
     },
     {
       "name": "unknown",
-      "cluster": 14,
+      "cluster": 45,
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-10-5eb3b5c4d3f99fd2d21d2ce05c6f30ad14552002",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[1]/div[1]/div[2]",
-          "section": "section-4"
+          "url": "https://www.dnata.com/en/who-we-are/",
+          "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+          "uuid": "81749aaf-12-abd7cdfb163c8c8d5b98cadd33b0b9279d117695",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[6]/div[1]/div[1]/div[1]/div[2]"
         }
-      ],
-      "key": "unknown14"
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 46,
+      "source": "Columns block",
+      "target": "Columns block (columns46)",
+      "key": "columns46",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-03-10f3de863c4beff72995ef29bd9c824803a39f84",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]"
+        }
+      ]
     },
     {
       "name": "Hero",
-      "cluster": 15,
+      "cluster": 47,
       "source": "Hero",
-      "target": "Hero (hero15)",
-      "key": "hero15",
+      "target": "Hero (hero47)",
+      "key": "hero47",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-12-4d9d3657b3283853e61b236e88d89b98533cf12a",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[2]",
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-26-869215f1a5fd113e1a847cd8e0ad58591b03cc48",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[2]/div[2]",
           "section": "section-4"
         }
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 16,
+      "name": "Cards (no images)",
+      "cluster": 48,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages48)",
+      "key": "cardsNoImages48",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-14-c91f06d28a1d5f525b75124e735c3b37aa1a68cc",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[2]",
-          "section": "section-3"
-        }
-      ],
-      "key": "unknown16"
-    },
-    {
-      "name": "Columns",
-      "cluster": 17,
-      "source": "Columns block",
-      "target": "Columns block (columns17)",
-      "key": "columns17",
-      "instances": [
-        {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-16-96c85d7ac6e82a7a307d347b20b0613fc6e3b479",
-          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]",
-          "section": "section-2"
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-05-355301820c8fcac6915484786b0cb69bcf810d96",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]/div[1]/div[3]"
         }
       ]
     },
     {
-      "name": "Columns",
-      "cluster": 18,
-      "source": "Columns block",
-      "target": "Columns block (columns18)",
-      "key": "columns18",
+      "name": "Hero",
+      "cluster": 49,
+      "source": "Hero",
+      "target": "Hero (hero49)",
+      "key": "hero49",
       "instances": [
         {
-          "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-          "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
-          "uuid": "56e48458-17-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
-          "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+          "url": "https://www.dnata.com/en/sustainability/",
+          "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+          "uuid": "b9775c9e-04-4d9a3005684f17823beccf8e5b0cd2a3f1906178",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "cluster": 50,
+      "source": "Search",
+      "target": "Search (search50)",
+      "key": "search50",
+      "instances": [
+        {
+          "url": "https://www.dnata.com/en/our-services/",
+          "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+          "uuid": "d10e0f18-24-c653fdaf6f63f444de0c0486e0630de441b94fed",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-4"
         }
       ]
     }
   ],
   "outliers": [
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-00-74d186be8bf3d5f525f8e6ece8cf6e6925ac57fe",
+      "xpath": "/html[1]/body[1]/div[2]/header[1]/section[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-01-b978888788ced38926717d02f78a7bc53fcdf083",
+      "xpath": "/html[1]/body[1]/div[2]/header[1]/section[2]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
+      "xpath": "/html[1]/body[1]/div[2]/nav[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-03-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-04-10f3de863c4beff72995ef29bd9c824803a39f84",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]"
+    },
     {
       "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
       "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
@@ -331,6 +783,13 @@
       "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
       "uuid": "56e48458-06-262be8c098aa8cedccb4c99d458c0792b1b57a6b",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-07-df479701796483f8068d475e8a188f9a3eac9760",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]",
       "section": "section-2"
     },
     {
@@ -350,8 +809,22 @@
     {
       "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
       "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-10-5eb3b5c4d3f99fd2d21d2ce05c6f30ad14552002",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[1]/div[1]/div[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
       "uuid": "56e48458-11-d58563dfff2ce4ac95ca8055f359d5a1f3621a87",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-12-4d9d3657b3283853e61b236e88d89b98533cf12a",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[2]",
       "section": "section-4"
     },
     {
@@ -364,16 +837,172 @@
     {
       "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
       "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-14-c91f06d28a1d5f525b75124e735c3b37aa1a68cc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
       "uuid": "56e48458-15-ec0b461d6626e8ec28039ae3ab7a63228ff97b89",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[2]",
       "section": "section-3"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-16-96c85d7ac6e82a7a307d347b20b0613fc6e3b479",
+      "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "urlHash": "56e48458516b02a97c3a217fafc15ad8a2e1716c",
+      "uuid": "56e48458-17-0afb7169aa9f66a9c4ef1dc3c0975032a055649b",
+      "xpath": "/html[1]/body[1]/div[2]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-06-9b97f6731e05d0eeab800f8900b0fe0520cb77bd",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-07-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-08-a1387b02a730cc7135656c4caf94fc8a2e287e8d",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-09-1fa7162b6aa43b845ecb14223d17f3021a95f9fa",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[2]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-11-01cd7849f976e75543ed4af92ae718277a5beaa8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[6]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-14-5033daf3841a0e235c4da06bf1f8c975291d1345",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[7]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "urlHash": "81749aaf272dc6f41a613359013948dae335e2b2",
+      "uuid": "81749aaf-16-d05f20d58bbf146fbc1cb8061762ec4635bf67dc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/media-centre/",
+      "urlHash": "b15146290da9d22de1803bd0b89da34b2b46fa3a",
+      "uuid": "b1514629-03-d10f678cbb38b04ad3a522e4cd18a61c86054545",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/sustainability/",
+      "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+      "uuid": "b9775c9e-03-f818b05542dead2cb188a4aa458c16f905bf8b00",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/sustainability/",
+      "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+      "uuid": "b9775c9e-11-9b97f6731e05d0eeab800f8900b0fe0520cb77bd",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.dnata.com/en/sustainability/",
+      "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+      "uuid": "b9775c9e-12-a85ef365667a7fa3229bba38e1e10aac6097229c",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[5]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/sustainability/",
+      "urlHash": "b9775c9e9e968719c3c2af491333bcf410793851",
+      "uuid": "b9775c9e-16-d05f20d58bbf146fbc1cb8061762ec4635bf67dc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-06-2670cab64c83b5b79dd17d385e798cc17930a0a3",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-08-d05f20d58bbf146fbc1cb8061762ec4635bf67dc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-10-9cc0a3aab0017f8fd5c4f075fe864df7d38d8086",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-13-b9907236cfe53d760d499bdcf9d50488e26dcf08",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[1]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-14-f37805c687583ec97efee80d8d566df50eccd012",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/section[3]/div[2]"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-20-e2c5462c0b79e0f383aa730d91d50149b466ebd3",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[2]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-21-96926d5bf1851d45e95d9ffbcb479d82ea1f6ec8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/a[1]/div[2]/div[3]/div[1]/div[1]/p[21]/span[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.dnata.com/en/our-services/",
+      "urlHash": "d10e0f187e18d2fef16a0adbaae566cf8358a557",
+      "uuid": "d10e0f18-25-9591b655fc2aab477d25be6ecaa12dc65c0f78eb",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[2]/div[1]/div[1]/div[3]",
+      "section": "section-4"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-00-34b6e7de15b4f6b8e6aa744cda0d259d8aa881c2",
       "xpath": "/html[1]/body[1]/div[1]/aside[1]/div[1]/div[1]",
-      "section": "section-5"
+      "section": "section-8"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+      "xpath": "/html[1]/body[1]/div[1]/header[1]"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-02-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]",
+      "section": "section-9"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
@@ -384,8 +1013,20 @@
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-04-9ce9fa8be76da29101f567649a5fe06e75efa88b",
+      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-05-28a9b8a4613e4ebb7b85814fd3998dfa3ff3ea64",
       "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-06-763479c3261fc43016e8eafc05c8ea8587e61655",
+      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
@@ -402,41 +1043,61 @@
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-09-7ff14cd4e5a5444d625217be384882a34ddb1005",
+      "xpath": "/html[1]/body[1]/section[4]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-10-2f0d5706755995ac93cce608e3d54724115fbb0b",
       "xpath": "/html[1]/body[1]/section[5]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-11-70dddc2058582ab0fa713099082e1fe5abd226ee",
+      "xpath": "/html[1]/body[1]/section[5]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-12-0a459baa9944b819c965bd5defd939b8a390d17d",
       "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]",
-      "section": "section-6"
+      "section": "section-9"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-13-eda7adab1547ada968fe3061e99dec5636274299",
       "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]/div[1]",
-      "section": "section-6"
+      "section": "section-9"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
+      "uuid": "ebc04d80-14-d416c3c4c30988887494101081ae91aa98dc6eef",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[2]/div[2]",
+      "section": "section-9"
     },
     {
       "url": "https://b2cprod.emirates.dev/en/contact-us/",
       "urlHash": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8",
       "uuid": "ebc04d80-15-d461fa316c7629e2236912589b357bdf891cb45c",
       "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[3]",
-      "section": "section-6"
+      "section": "section-9"
     }
   ],
   "sections": [
     {
       "name": "section-1",
       "background": "rgb(0, 133, 202) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 1
+      "count": 4
     },
     {
       "name": "section-2",
       "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 5
+      "count": 12
     },
     {
       "name": "section-3",
@@ -446,20 +1107,35 @@
     {
       "name": "section-4",
       "background": "rgb(242, 248, 251) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 3
+      "count": 7
     },
     {
       "name": "section-5",
+      "background": "rgba(0, 0, 0, 0) radial-gradient(rgb(198, 218, 231) 30%, rgba(0, 0, 0, 0) 70%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 10
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) radial-gradient(rgb(198, 218, 231) 30%, rgba(0, 0, 0, 0) 75%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 2
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(to top, rgba(198, 218, 231, 0.2) 30%, rgba(0, 0, 0, 0) 70%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
       "background": "rgba(0, 0, 0, 0.49) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 1
     },
     {
-      "name": "section-6",
+      "name": "section-9",
       "background": "rgb(36, 36, 36) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 5
     },
     {
-      "name": "section-7",
+      "name": "section-10",
       "background": "rgb(194, 23, 29) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 1
     }
