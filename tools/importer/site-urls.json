@@ -4,16 +4,24 @@
   "lastCrawled": "https://www.dnata.com/",
   "urls": [
     {
-      "url": "https://b2cprod.emirates.dev/en/contact-us/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/contact-us",
-      "id": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8"
+      "url": "https://www.dnata.com/en/who-we-are/",
+      "source": "MANUAL",
+      "targetPath": "/en/who-we-are"
     },
     {
-      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
-      "source": "SITEMAPS",
-      "targetPath": "/en/global-network/saudi-arabia",
-      "id": "56e48458516b02a97c3a217fafc15ad8a2e1716c"
+      "url": "https://www.dnata.com/en/our-services/",
+      "source": "MANUAL",
+      "targetPath": "/en/our-services"
+    },
+    {
+      "url": "https://www.dnata.com/en/sustainability/",
+      "source": "MANUAL",
+      "targetPath": "/en/sustainability"
+    },
+    {
+      "url": "https://www.dnata.com/media-centre/",
+      "source": "MANUAL",
+      "targetPath": "/media-centre"
     }
   ],
   "crawlOptions": {
