@@ -6,22 +6,26 @@
     {
       "url": "https://www.dnata.com/en/who-we-are/",
       "source": "MANUAL",
-      "targetPath": "/en/who-we-are"
+      "targetPath": "/en/who-we-are",
+      "id": "81749aaf272dc6f41a613359013948dae335e2b2"
     },
     {
       "url": "https://www.dnata.com/en/our-services/",
       "source": "MANUAL",
-      "targetPath": "/en/our-services"
+      "targetPath": "/en/our-services",
+      "id": "d10e0f187e18d2fef16a0adbaae566cf8358a557"
     },
     {
       "url": "https://www.dnata.com/en/sustainability/",
       "source": "MANUAL",
-      "targetPath": "/en/sustainability"
+      "targetPath": "/en/sustainability",
+      "id": "b9775c9e9e968719c3c2af491333bcf410793851"
     },
     {
       "url": "https://www.dnata.com/media-centre/",
       "source": "MANUAL",
-      "targetPath": "/media-centre"
+      "targetPath": "/media-centre",
+      "id": "b15146290da9d22de1803bd0b89da34b2b46fa3a"
     }
   ],
   "crawlOptions": {
