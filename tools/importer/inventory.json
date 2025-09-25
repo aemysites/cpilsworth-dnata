@@ -57,7 +57,8 @@
           "uuid": "ebc04d80-01-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
           "xpath": "/html[1]/body[1]/div[1]/header[1]"
         }
-      ]
+      ],
+      "key": "unknown1"
     },
     {
       "name": "Hero",
@@ -100,7 +101,8 @@
           "uuid": "ebc04d80-06-763479c3261fc43016e8eafc05c8ea8587e61655",
           "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
         }
-      ]
+      ],
+      "key": "unknown4"
     },
     {
       "name": "Accordion",
@@ -191,7 +193,8 @@
           "uuid": "56e48458-02-fdd0019a85576c6e6c213c2943db1410c56ec3ec",
           "xpath": "/html[1]/body[1]/div[2]/nav[1]"
         }
-      ]
+      ],
+      "key": "unknown10"
     },
     {
       "name": "Columns",
@@ -250,7 +253,8 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[2]/div[1]/div[1]/div[2]",
           "section": "section-4"
         }
-      ]
+      ],
+      "key": "unknown14"
     },
     {
       "name": "Hero",
@@ -279,7 +283,8 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[2]",
           "section": "section-3"
         }
-      ]
+      ],
+      "key": "unknown16"
     },
     {
       "name": "Columns",
