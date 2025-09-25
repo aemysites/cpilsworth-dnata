@@ -1,0 +1,1504 @@
+{
+  "originUrl": "https://www.dnata.com",
+  "aborted": false,
+  "lastCrawled": "https://www.dnata.com/",
+  "urls": [
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact-us",
+      "id": "ebc04d80fe4b8d0be3c6dfcec446390e0d6b5fe8"
+    },
+    {
+      "url": "https://www.dnata.com/en/global-network/saudi-arabia/",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global-network/saudi-arabia",
+      "id": "56e48458516b02a97c3a217fafc15ad8a2e1716c"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://b2cprod.emirates.dev/de/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/de/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/nl/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/es/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/cs/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/pt/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/passenger-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/australia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/saudi-arabia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/fr/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/terms-of-use/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/faqs/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/dnata-representation-services-land/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/united-kingdom/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/careers/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/modern-slavery-act-transparency-statement/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/sitemap/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/sustainability/sustainability-governance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-people/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/privacy-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/cookie-policy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/accomodation-and-ground-product-partnership/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/bahrain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/sustainability/environmental-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/awards-and-accreditations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/emquest/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/czech-republic/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/media-contact-and-resources/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/sustainability/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/financial-performance/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/dnata-travel-management/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/germany/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/lost-and-found/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/sustainability/social-initiatives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-service-commitments/operational-excellence/business-policies-and-practices/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/ground-handling/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/hong-kong/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/contact-us/enquiry-and-feedback-form/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/dnata-representation-services-air/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/russia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-story/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/private-aviation/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/vietnam/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-leadership/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/gold-medal/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/indonesia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-service-commitments/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/catering-and-retail/inflight-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/italy/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-service-commitments/safety/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/catering-and-retail/retail-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/jordan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-service-commitments/operational-excellence/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/catering-and-retail/vip-catering/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/malaysia/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/who-we-are/our-service-commitments/community-and-wellbeing/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/catering-and-retail/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/switzerland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/cargo/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/south-africa/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/spain/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/travel/dnata-travel-global-operations/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/thailand/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/premium-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/maldives/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/our-services/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/sweden/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/china/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/turkey/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/india/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/philippines/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/netherlands/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/belgium/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/ireland/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/brazil/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/singapore/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/tanzania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/united-states/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/oman/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/romania/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/iraq/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/canada/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/pakistan/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/united-arab-emirates/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://b2cprod.emirates.dev/en/global-network/australia/",
+      "status": "404 Not Found"
+    }
+  ],
+  "errorCountMessage": "{\"E_404\":367}",
+  "error": null
+}
