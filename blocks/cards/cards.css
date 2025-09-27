@@ -124,7 +124,7 @@
   margin: 0 0 10px;
   line-height: 1.25;
   text-align: center;
-  word-break: break-word;
+  word-break: break-all;
   overflow-wrap: break-word;
 }
 
